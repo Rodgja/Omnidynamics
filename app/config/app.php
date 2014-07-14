@@ -4,7 +4,7 @@ return array(
 
 	/*
 	|--------------------------------------------------------------------------
-	| Application Debug Mode
+	| Application Debug Mode denis was here
 	|--------------------------------------------------------------------------
 	|
 	| When your application is in debug mode, detailed error messages with
